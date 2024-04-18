@@ -1,2 +1,2 @@
-# tarea-platzi-fundamentos-nodejs
-Tarea del curso de Platzi de Nodejs
+# platzi-examen-fundamentos-nodejs
+En este repo está el código creado por mí demostrando lo que he aprendido.
